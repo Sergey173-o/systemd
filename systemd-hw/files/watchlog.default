@@ -1,0 +1,4 @@
+# Configuration file for my watchlog service
+# Place it to /etc/default
+WORD="ALERT"
+LOG=/var/log/watchlog.log
